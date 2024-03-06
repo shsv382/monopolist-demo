@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/monopolist-demo/static/css/main.89cd59be.css",
-    "main.js": "/monopolist-demo/static/js/main.4269aa62.js",
+    "main.js": "/monopolist-demo/static/js/main.b97cd91a.js",
     "static/js/787.63994292.chunk.js": "/monopolist-demo/static/js/787.63994292.chunk.js",
     "static/media/logo-new.svg": "/monopolist-demo/static/media/logo-new.82a11a41df42fc669ebf.svg",
     "static/media/MullerUltraLightItalic.ttf": "/monopolist-demo/static/media/MullerUltraLightItalic.5da6880ac819321ebb42.ttf",
@@ -80,11 +80,11 @@
     "static/media/ellipse.svg": "/monopolist-demo/static/media/ellipse.95a0c0e6bff2c9a077e2.svg",
     "static/media/up-square.svg": "/monopolist-demo/static/media/up-square.31d6cfe0d16ae931b73c.svg",
     "main.89cd59be.css.map": "/monopolist-demo/static/css/main.89cd59be.css.map",
-    "main.4269aa62.js.map": "/monopolist-demo/static/js/main.4269aa62.js.map",
+    "main.b97cd91a.js.map": "/monopolist-demo/static/js/main.b97cd91a.js.map",
     "787.63994292.chunk.js.map": "/monopolist-demo/static/js/787.63994292.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89cd59be.css",
-    "static/js/main.4269aa62.js"
+    "static/js/main.b97cd91a.js"
   ]
 }
